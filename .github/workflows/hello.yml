@@ -1,7 +1,7 @@
 name: Hello World Workflow
 
 on:
-  workflow_dispatch  # allows manual triggering from the Actions tab
+  workflow_dispatch
 
 jobs:
   hello-job:
